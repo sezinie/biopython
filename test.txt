@@ -1,1 +1,1 @@
-this is my firsty biopython text
+this is my first biopython text
